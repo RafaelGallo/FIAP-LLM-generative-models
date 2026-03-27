@@ -1,0 +1,30 @@
+**Dados sobre o negócio da concessionária AutoToya Veículos**
+
+## O que fazemos:
+- Vendemos carros novos e seminovos.
+- Oferecemos financiamento, seguro, consórcio e manutenção.
+- Agendamos test-drive para os clientes.
+
+## Unidades:
+- Osasco: Avenida dos Autonomistas, 890 - Centro, Osasco - SP, 06020-010
+- São Paulo: Avenida Paulista, 1106 - Bela Vista, São Paulo - SP, 01311-000
+- Curitiba: Avenida Sete de Setembro, 2775 - Rebouças, Curitiba - PR, 80230-010
+
+## Horário de funcionamento:
+- Segunda a Sexta: 8h às 18h
+- Sábado: 9h às 14h
+- Domingo: fechado
+
+## Tabela de preços:
+| Veículo             | Preço (R$)  | Descrição                                                                    |
+| ------------------- | ----------- | ---------------------------------------------------------------------------- |
+| Fiat Argo 2024      | 78.900      | Seminovo, 12.000 km, cor vermelho, único dono, em excelente estado.          |
+| Jeep Renegade 2024  | 134.900     | Novo, 0 km, cor branca, equipado com pacote completo, garantia de fábrica.   |
+| Toyota Corolla 2024 | 152.500     | Seminovo, 8.500 km, cor preta, muito bem conservado, revisões em dia.        |
+| Chevrolet Onix 2024 | 84.700      | Seminovo, 20.000 km, cor prata, pequenas marcas de uso, revisões realizadas. |
+
+## Informações de contato:
+- Telefone: (11) 4002-8922
+- WhatsApp: (11) 98888-7777
+- Site: www.autotoyaveiculos.com.br
+- Instagram: contato@autotoyaveiculos.com.br
